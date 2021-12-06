@@ -19,7 +19,7 @@ Untuk perintah diatas adalah untuk mencetak semua daftar nama dan kotak yang sud
 ### Membuat Program Sederhana dengan Menampilkan Daftar Nilai Mahasiswa
 
 #### Berikut adalah gambar flowchact dan code source program.
-1. Diatas adalah gambar flowchacrt program
+1. Dibawah adalah gambar flowchacrt program
 ![Gambar](ss/ss3.png)
 2. Gambar Code Source Program
 ![Gambar](ss/ss4.png)
